@@ -5,6 +5,7 @@
     box-sizing: border-box;
     font-family: SpotifyMixUI,CircularSp,Helvetica,Arial,sans-serif;
 }
+/*nav starts here   */
 nav{
     display: flex;
     flex-wrap: nowrap;
@@ -46,6 +47,7 @@ nav>aside>ol>li:nth-child(4){
     color: white;
     cursor: none    ;
 }
+/*Nav ends here  */
 
 aside>ol{
     list-style: none;
