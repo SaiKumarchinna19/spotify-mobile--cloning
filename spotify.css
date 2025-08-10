@@ -6,7 +6,7 @@
     font-family: SpotifyMixUI,CircularSp,Helvetica,Arial,sans-serif;
 }
 
-/*nav bar starts here */
+/*nav bar start's here */
 nav{
     display: flex;
     flex-wrap: nowrap;
@@ -48,7 +48,7 @@ nav>aside>ol>li:nth-child(4){
     cursor: none    ;
 }
 
-/* nav ends here  */
+/* nav end's here  */
 
 aside>ol{
     list-style: none;
@@ -449,4 +449,5 @@ footer li:hover{
     color: green;
 }
 /*css ends here  */
+
 
