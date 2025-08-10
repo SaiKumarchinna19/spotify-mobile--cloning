@@ -6,7 +6,7 @@
     font-family: SpotifyMixUI,CircularSp,Helvetica,Arial,sans-serif;
 }
 
-nav bar start's here
+/* nav bar start's here */
 nav{
     display: flex;
     flex-wrap: nowrap;
@@ -29,7 +29,7 @@ nav div{
 }
 nav>div svg{
   height: 36px;
-  fill: white;
+  fill:white;
   
   
   
@@ -409,6 +409,7 @@ footer svg{
     background-color: green;
     cursor: pointer;
 }
+
 footer>.sdiv>h6:first-child{
     height: 30px;
     width: 100%;
@@ -449,6 +450,7 @@ footer li:hover{
     color: green;
 }
 /*css ends here  */
+
 
 
 
