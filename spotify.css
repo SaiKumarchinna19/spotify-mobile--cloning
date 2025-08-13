@@ -308,7 +308,7 @@ section>div>aside>article>h2{
     cursor: pointer;
 }
 
-footer
+footer part
 footer{
     height: 560px;
     /* border: 2px solid; */
@@ -450,4 +450,5 @@ footer li:hover{
     color: green;
 }
 /*css ends here  */
+
 
