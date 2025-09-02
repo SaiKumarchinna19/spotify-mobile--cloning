@@ -26,7 +26,6 @@ nav div{
     align-items: center;
     
 }
-
 nav>div svg{
   height: 36px;
   fill:white; 
@@ -447,6 +446,7 @@ footer li:hover{
     color: green;
 }
 /*css ends here  */
+
 
 
 
