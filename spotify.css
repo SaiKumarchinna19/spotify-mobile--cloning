@@ -34,8 +34,8 @@ nav>div svg{
   
 }
 nav aside{
-    /* border: 2px solid; */
-    width: 550px;
+    border: 2px solid;
+    width: 551px;
 
     
 }
@@ -451,6 +451,7 @@ footer li:hover{
     color: green;
 }
 /*css ends here  */
+
 
 
 
