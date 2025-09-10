@@ -5,6 +5,7 @@
     box-sizing: border-box;
     font-family: SpotifyMixUI,CircularSp,Helvetica,Arial,sans-serif;
 }
+
 /* nav bar start's here */
 nav{
     display: flex;
@@ -75,6 +76,7 @@ main>div:first-child{
     justify-content: center;
     align-items: flex-end;       
 }
+
 
 main>div:last-child{
     height: auto;
@@ -441,6 +443,7 @@ footer li:hover{
     color: green;
 }
 /*css ends here  */
+
 
 
 
