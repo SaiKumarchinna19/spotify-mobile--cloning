@@ -33,12 +33,13 @@ nav>div svg{
 nav aside{
 /*     border: 2px solid; */
     width: 550px;
-  
 }
+
 nav>aside>ol>li:hover{
     color: green;
     cursor: pointer;
 }
+
 nav>aside>ol>li:nth-child(4){
     color: white;
     cursor: none    ;
@@ -446,6 +447,7 @@ footer li:hover{
     color: green;
 }
 /*css ends here  */
+
 
 
 
