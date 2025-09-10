@@ -17,6 +17,7 @@ nav{
     color: white;
     background-color: black ;
 }
+
 nav div{
     /* border: 2px solid; */
     width: 250px;
@@ -440,6 +441,7 @@ footer li:hover{
     color: green;
 }
 /*css ends here  */
+
 
 
 
