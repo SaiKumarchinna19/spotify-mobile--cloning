@@ -86,8 +86,7 @@ main>div:last-child{
     gap: 30px;
     
 }
-main>div>h1{
-    
+main>div>h1{   
     color: white;
     font-size: 62px;
     font-weight: 799;
@@ -441,6 +440,7 @@ footer li:hover{
     color: green;
 }
 /*css ends here  */
+
 
 
 
